@@ -1,5 +1,5 @@
 # Tekel
-
+/Users/xyz/Development/active/speechified/prep/tekel
 _a load balancer_
 Mine, Mine, Tekel, Upharsin
 
